@@ -4,3 +4,6 @@ Simple calculator app styled to look similar to cashapp
 This app currently completes the operation of two numbers
 
 Fell free to fork this project and do what you want with it!
+
+
+![](gitdisplay.gif)
